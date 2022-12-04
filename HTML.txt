@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Assignment 8.2</title>
+    <link rel="stylesheet" href="./styles8-2.css">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="navbar">
+        <ul>
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Features</a>
+            </li>
+            <li>
+                <a href="#">Lifesyle</a>
+            </li>
+            <li>
+                <a href="#">Technology</a>
+            </li>
+            <li>
+                <a href="#">All articles</a>
+            </li>
+        </ul>
+    </div>
+    <div class="parent">
+        <div class="child1">
+            <img src="https://c8.alamy.com/comp/MH9031/two-friends-sitting-on-a-bench-overlooking-a-lake-MH9031.jpg"
+             alt=""
+             width="100px"
+             height="100px"
+             />
+             <h6 class="one">Travel</h6>
+             <h5>Golden Gate Bridge</h5>
+             <p>Leverage agile frameworks to provide a robust synopsis for high 
+                level overviews...</p>
+        </div>
+        <div class="child2">
+            <img src="https://image.shutterstock.com/shutterstock/photos/1759371038/display_1500/stock-photo-young-guy-holding-drone-in-his-hand-up-in-the-air-outdoors-photo-1759371038.jpg"
+             alt=""
+             width="100px"
+             height="100px"
+             />
+             <h6 class="two">Technology</h6>
+             <h5>We Bought a Drone!</h5>
+             <p>Leverage agile frameworks to provide a robust synopsis for high 
+                level overviews...</p>
+        </div>
+        <div class="child3">
+            <img src="http://cdn.shopify.com/s/files/1/1583/1627/products/il_570xN.1721529549_jde6.jpg?v=1646678920"
+             alt=""
+             width="100px"
+             height="100px"
+             />
+             <h6 class="three">Fashion</h6>
+             <h5>This Week's Accessories</h5>
+             <p>Leverage agile frameworks to provide a robust synopsis for high 
+                level overviews...</p>
+        </div>
+        <div class="child4">
+            <img src="https://thumbs.dreamstime.com/b/young-woman-drinking-coffee-front-wooden-wall-portrait-morning-186418740.jpg"
+             alt=""
+             width="100px"
+             height="100px"
+             />
+             <h6 class="four">Fashion</h6>
+             <h5>Denim for Spring</h5>
+             <p>Leverage agile frameworks to provide a robust synopsis for high 
+                level overviews...</p>
+        </div>
+    </div>
+</body>
+</html>
